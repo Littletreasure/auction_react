@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Pangolin&display=swap");
+
+body {
+  background-color: #fff0e6;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  padding: 5px 20px 5px 5px;
+}
+
+.logo {
+  width: 20%;
+}
+
+h1 {
+  font-family: "Indie Flower", cursive;
+  font-size: 45px;
+  margin: 10px 0;
+}
+.headerTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.headerTitle p {
+  font-family: "Pangolin", cursive;
+  justify-self: flex-end;
+  margin-bottom: 0;
+}
+.main {
+  margin: 10px;
+  text-align: left;
+}
+.main p {
+  font-family: "Pangolin", cursive;
+  font-size: 20px;
+}
+.footer p {
+  margin: 10px;
+  text-align: left;
+}
+.lots {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-template-rows: auto;
+  column-gap: 40px;
+  row-gap: 40px;
+  box-sizing: border-box;
+  margin: 0 10px 20px 10px;
+}
+.singleItem {
+  justify-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  border: 1px solid #ffc299;
+  background-color: #ffe0cc;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+.singleItem:hover {
+  background-color: #ffb380;
+  border: 1px solid #ffa366;
+}
+
+.itemInfo p {
+  margin: 0 0 10px 0;
+  font-family: sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.imageDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+}
+.singleImage {
+  justify-self: center;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #ffe0cc;
+}
+.itemMain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.itemMain h2 {
+  font-family: "Indie Flower", cursive;
+  font-size: 30px;
+}
+.itemMain p {
+  font-family: sans-serif;
+  margin: 10px;
+}
+.mainImage {
+  width: 45%;
+}
+.back {
+  align-self: flex-end;
+  margin: 0 10px 10px 0;
+  border: 1px solid #ffc299;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #ffe0cc;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+.back:hover {
+  background-color: #ffb380;
+  border: 1px solid #ffa366;
+}
