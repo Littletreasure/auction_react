@@ -20,7 +20,7 @@ class Main extends Component {
             rel="noopener noreferrer"
           >
             facebook
-          </a>
+          </a>{" "}
           stating name, contact number, lot number, description and bid amount.
         </p>
         <p>Closing date for bids is 2nd December 12pm.</p>
