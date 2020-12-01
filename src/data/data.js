@@ -1,4 +1,4 @@
-export const date = "22nd November";
+export const date = "1st December";
 export const auctionItems = [
   {
     lotNo: "1",
@@ -55,7 +55,7 @@ export const auctionItems = [
     name: "Hannah Dunnett Print",
     image: "hannah_dunnett",
     description: "Framed Hannah Dunnett print, 'Psalm 23'.",
-    bid: "£15",
+    bid: "£20",
   },
   {
     lotNo: "9",
@@ -69,7 +69,7 @@ export const auctionItems = [
     name: "Golf Bookends",
     image: "bookends",
     description: "Novelty golfing bookends.",
-    bid: "£0",
+    bid: "£5",
   },
   {
     lotNo: "11",
@@ -90,14 +90,14 @@ export const auctionItems = [
     name: "Cacti Terrarium",
     image: "cacti",
     description: "Cacti terrarium. Pear shaped glass with live plants.",
-    bid: "£10",
+    bid: "£20",
   },
   {
     lotNo: "14",
     name: "Ted Baker Handbag",
     image: "ted_baker1",
     description: "Ted Baker handbag.",
-    bid: "£0",
+    bid: "£20",
   },
   {
     lotNo: "15",
@@ -111,14 +111,14 @@ export const auctionItems = [
     name: "Paint & Brush Set",
     image: "paints",
     description: "Set of watercolour paints and brushes.",
-    bid: "£17.50",
+    bid: "£20",
   },
   {
     lotNo: "17",
     name: "World War Books",
     image: "war_books",
     description: "Set of World War books.",
-    bid: "£0",
+    bid: "£10",
   },
   {
     lotNo: "18",
@@ -153,7 +153,7 @@ export const auctionItems = [
     name: "Cot Quilt/Wall Hanging",
     image: "quilt1",
     description: "Quilted cot cover/wall hanging, 72 x 60cm.",
-    bid: "£0",
+    bid: "£10",
   },
   {
     lotNo: "23",
@@ -175,7 +175,7 @@ export const auctionItems = [
     name: "Train Jigsaw",
     image: "jigsaw",
     description: "500 piece train jigsaw, brand new in original wrapping.",
-    bid: "£6",
+    bid: "£10",
   },
   {
     lotNo: "26",
@@ -217,7 +217,7 @@ export const auctionItems = [
     name: "Child's Bike",
     image: "bike1",
     description: "Child's bike and helmet, approx age 3-4.",
-    bid: "£0",
+    bid: "£20",
   },
   {
     lotNo: "32",
@@ -259,7 +259,7 @@ export const auctionItems = [
     name: "Square Christmas Cake",
     image: "christmas_cake1",
     description: '7" square Christmas cake, homemade and iced.',
-    bid: "£8",
+    bid: "£10",
   },
   {
     lotNo: "38",
@@ -319,7 +319,7 @@ export const auctionItems = [
     image: "table_runner",
     description:
       "Christmas table runner and serviettes, handmade with love (reserve £30).",
-    bid: "£0",
+    bid: "£30",
   },
   {
     lotNo: "46",
@@ -341,7 +341,7 @@ export const auctionItems = [
     image: "tablecloth",
     description:
       "180cm round festive tablecloth with napkins, silver stars pattern.",
-    bid: "£0",
+    bid: "£5",
   },
   {
     lotNo: "49",
